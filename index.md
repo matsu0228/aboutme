@@ -1,3 +1,8 @@
+---
+layout: default
+title: トップページ
+---
+
 # aboutme
 
 ## 個人データ
@@ -10,7 +15,7 @@
   * Speaker Deck: [@matsu0228](https://speakerdeck.com/matsu0228/)
 
 
-#### 業務外活動
+## 業務外活動
 
 * 身内の勉強会（アジャイルに関する発表）
   * [シリコンバレーで３ヶ月働いて体感した自律型組織のススメ](https://speakerdeck.com/matsu0228/organization$theory-of-engineering)
@@ -26,9 +31,9 @@
 
 
 
-#### プログラミングスキル
+## プログラミングスキル
 
-###### Go
+### Go
 
 * Go1.11
 * dep / go modules による依存関係管理ができる
@@ -39,7 +44,7 @@
 マイクロサービス化
 
 
-###### Python
+### Python
 
 * Django
 
