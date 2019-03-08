@@ -18,7 +18,7 @@ title: トップページ
 ## 業務外活動
 
 * 身内の勉強会（アジャイルに関する発表）
-  * [シリコンバレーで３ヶ月働いて体感した自律型組織のススメ](https://speakerdeck.com/matsu0228/organization$theory-of-engineering)
+  * [シリコンバレーで３ヶ月働いて体感した自律型組織のススメ](https://speakerdeck.com/matsu0228/organizationtheory-of-engineering)
   * [カンファレンス：AgileTestingDays2018](https://speakerdeck.com/matsu0228/report-of-agiletestingdays2018)
 
 * 勉強会：Gopher道場
@@ -36,36 +36,36 @@ title: トップページ
 ### Go
 
 * Go1.11
-* dep / go modules による依存関係管理ができる
-* Makefi eによるセットアップ・ビルドの自動化ができる
-* circle.ciなどによる、テスト自動化ができる
+  * dep / go modules による依存関係管理ができる
+  * Makefi eによるセットアップ・ビルドの自動化ができる
+  * circle.ciなどによる、テスト自動化ができる
 
-モール出展プログラム
-マイクロサービス化
+* 業務において
+  * ECサイトにおける、モール向け受注出荷連携システム
+  * マイクロサービスにおける、外部API連携システム
 
 
 ### Python
 
 * Django
+  * 三ヶ月のインターンで、評判分析ツールの開発
 
-* 三ヶ月のインターンで、評判分析ツールの開発
-
-###### Ruby
+### Ruby
 
 * Ruby on Rails
 * 大学院の研究（言語処理）
 * iOSアプリ向けのAPIの実装
 
 
-###### PHP
+### PHP
 
 * WordPressをカスタマイズし、友人のサイト(CMS含む)の実装
 * Laravel による、API/バッチ開発
 
 
-###### JavaScript
+### JavaScript
 
-jQuery
+* jQuery
 
 * Node.jsによるスクリプト
   * firebaseへのデータインポート・エクスポートツール)
@@ -73,23 +73,23 @@ jQuery
 * React.js / ReactNative
 
 
-###### データベース
+### データベース
 
-* RDB(
+* RDB
   * SQL Server: ECサイト開発において、数百万件の商品データ・在庫データ、18年間の会員情報などを扱い開発した経験
   * mysql: 新入社員研修でアプリ開発時に利用、個人開発で利用
 * NoSQL
   * MongoDB: インターン中、web上の評判データ
   * firebase: 新規
+* GCP BigQuery
 
 * その他
   * Redis
-  * rabbitMQ 
+  * rabbitMQ
 
-###### インフラ
+### インフラ
 
-docker
-ansible
-
-GCP
+* docker
+* ansible
+* GCP
 
