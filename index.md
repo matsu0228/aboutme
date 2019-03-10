@@ -21,9 +21,10 @@ title: トップページ
   * [シリコンバレーで３ヶ月働いて体感した自律型組織のススメ](https://speakerdeck.com/matsu0228/organizationtheory-of-engineering)
   * [カンファレンス：AgileTestingDays2018](https://speakerdeck.com/matsu0228/report-of-agiletestingdays2018)
 
-* 勉強会：Gopher道場
+* 勉強会：Gopher道場,Qiita
   * [GoにおけるAPIアーキテクチャ設計](https://speakerdeck.com/matsu0228/architecture-of-api-server-with-goliaang)
-  * （Go言語を学習し始めて３ヶ月ほどの頃の資料で、拙い箇所が多々あります）
+    * （Go言語を学習し始めて３ヶ月ほどの頃の資料で、拙い箇所が多々あります）
+  * [Goにおけるテストノウハウ(Qiita)](https://qiita.com/matsu0228/items/c9f69b036f0ab47b617e)
 
 * Qiita
   * [これからのテストの話をしよう〜Goにおけるテストノウハウ〜](https://qiita.com/matsu0228/items/c9f69b036f0ab47b617e)
