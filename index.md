@@ -8,10 +8,10 @@ title: aboutme
 
 * 氏名 : 松木 久幸 (HISAYUKI MATSUKI)
 * ID
-  * github: [@matsu0228](https://github.com/matsu0228)
-  * twitter: [@matskhs](https://twitter.com/mtskhs)
-  * Qiita: [@matsu0228](https://qiita.com/matsu0228)
-  * Speaker Deck: [@matsu0228](https://speakerdeck.com/matsu0228/)
+  * github: [mtskhs](https://github.com/matsu0228)
+  * twitter: [@mtskhs](https://twitter.com/mtskhs)
+  * Qiita: [@mtskhs](https://qiita.com/mtskhs)
+  * Speaker Deck: [@mtskhs](https://speakerdeck.com/matsu0228/)
 
 
 # 業務外活動
@@ -21,9 +21,12 @@ title: aboutme
   * [カンファレンス：AgileTestingDays2018報告(slide)](https://speakerdeck.com/matsu0228/report-of-agiletestingdays2018)
 
 * Go
-  * [GoにおけるAPIアーキテクチャ設計(slide)](https://speakerdeck.com/matsu0228/architecture-of-api-server-with-goliaang)
-    * （Go言語を学習し始めて３ヶ月ほどの頃の資料で、拙い箇所が多々あります）
+  * Go Conference 2019 Autumn における登壇:[Goにおける API Client実装パターン(slide)](https://speakerdeck.com/matsu0228/api-client-implementation-pattern-in-go)
   * [Goにおけるテストノウハウ(Qiita)](https://qiita.com/matsu0228/items/c9f69b036f0ab47b617e)
+  * OSS: Cloud Firestore運用ツール [fsrpl](https://firebaseopensource.com/projects/matsu0228/fsrpl) の開発
+
+* ReactNative
+  * [ReactNativeにおけるパフォーマンスチューニング(slide)](https://speakerdeck.com/matsu0228/performance-tuning-in-reactnative)
 
 * Python
   * [pythonで日本語文の感情分析（＋言語処理の基礎）(Qiita)](https://qiita.com/matsu0228/items/0323f299d03f5b07efdc)
@@ -32,17 +35,15 @@ title: aboutme
 
 # プログラミングスキル
 
+7年以上のC向け自社サービスの開発/運用経験あり
+
 ### Go
 
-* Go1.11
-  * dep / go modules による依存関係管理ができる
-  * Makefi eによるセットアップ・ビルドの自動化ができる
-  * circle.ciなどによる、テスト自動化ができる
-
 * 業務において
+  * GAE+Goで、アプリ向けAPIの開発
   * ECサイトにおける、モール向け受注出荷連携システム
   * マイクロサービスにおける、外部API連携システム
-  * テスト自動化(Circle.CI連携)
+  * テスト自動化(CircleCI/GitHub Actions)
 
 
 ### Python
@@ -70,14 +71,10 @@ title: aboutme
 * React.jsによる、アプリ運用のための管理ツール開発
   * fireabaseのデータ編集ツール
 
-* modern JavaScript(ES2017)
+* modern JavaScript(ES2020)
 
 * Node.jsによるスクリプト
-  * firebaseへのデータインポート・エクスポートツール)
-
-* jQuery
-
-
+  * Firebaseへのデータインポート・エクスポートツール)
 
 
 ## データストア

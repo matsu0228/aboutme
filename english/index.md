@@ -8,10 +8,10 @@ title: aboutme
 
 * Name: HISAYUKI MATSUKI
 * Accounts
-  * github: [@matsu0228](https://github.com/matsu0228)
-  * twitter(japanes): [@matskhs](https://twitter.com/mtskhs)
-  * Qiita(japanese tech blog) : [@matsu0228](https://qiita.com/matsu0228)
-  * Speaker Deck(japanese presentation): [@matsu0228](https://speakerdeck.com/matsu0228/)
+  * github: [mtskhs](https://github.com/matsu0228)
+  * twitter(japanese): [@mtskhs](https://twitter.com/mtskhs)
+  * Qiita(japanese tech blog) : [@mtskhs](https://qiita.com/mtskhs)
+  * Speaker Deck(japanese presentation): [mtskhs](https://speakerdeck.com/matsu0228/)
 
 
 # Work Experience
@@ -21,7 +21,7 @@ title: aboutme
 * 6 years+
 
 * Backend
-  * Go, Python, PHP, Ruby: 6 Years+ (Total)
+  * Go, TypeScript, Python, PHP, Ruby: 7 Years+ (Total)
   * Developed for EC Shopping Mall (Rakuten, Yahoo shopping)
   * Renovate to MicroServices from one of legacy system
 
@@ -31,6 +31,7 @@ title: aboutme
   * Implovement of technical teams skills by Agile Retrospective)
 
 * Flontend
+  * Developed mobile application by React Native (expo) and Firebase
   * Analized KPI of user's data(ABtesting, Google Analitics), and Imploved EC Site
   * Developed operation functions by JavaScript
 
@@ -41,9 +42,12 @@ title: aboutme
   * [Report of AgileTestingDays2018 (slide; japanese)](https://speakerdeck.com/matsu0228/report-of-agiletestingdays2018)
 
 * Go
-  * [Leaning of CleanArchtecture at Go(slide; japanese)](https://speakerdeck.com/matsu0228/architecture-of-api-server-with-goliaang)
   * [Testing at Go(github; english)](https://github.com/matsu0228/gotest)
 
+  * Go Conference 2019 Autumn:[API Client implementation pattern (slide; japanese)](https://speakerdeck.com/matsu0228/api-client-implementation-pattern-in-go)
+
+* ReactNative
+  * [ReactNative's performance tuning(slide; japanese)](https://speakerdeck.com/matsu0228/performance-tuning-in-reactnative)
 
 * Python
   * [Sentiment analysis of Japanese at Python (tech blog; japanese)](https://qiita.com/matsu0228/items/0323f299d03f5b07efdc)
@@ -53,18 +57,19 @@ title: aboutme
 
 ### Go
 
+* OSS: Cloud Firestore's operation tool [fsrpl](https://firebaseopensource.com/projects/matsu0228/fsrpl)
+
+* Works
+  * Developed API for mobile application by GAE & Go
+  * Developed Order and supply systems for malls in EC services
+  * Test Automation by CircleCI & GitHub Actions
 
 
 ### Python
 
-
-### Ruby
-
-
-
-### PHP
-
-
+* Django
+  * Three months of internship at Silicon Valley Startups
+  * Develop a Japanese reputation analysis system
 
 ### JavaScript
 
