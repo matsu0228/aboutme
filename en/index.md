@@ -3,37 +3,56 @@ layout: default
 title: aboutme
 ---
 
+last updated: 2/16/2022
 
 # Accounts
 
 * Name: HISAYUKI MATSUKI
 * Accounts
-  * github: [mtskhs](https://github.com/matsu0228)
-  * twitter(japanese): [@mtskhs](https://twitter.com/mtskhs)
+  * GitHub: [mtskhs](https://github.com/matsu0228)
+  * Twitter(japanese): [@mtskhs](https://twitter.com/mtskhs)
+  * Zenn(japanese tech blog): [@mtskhs](https://zenn.dev/mtskhs))
   * Qiita(japanese tech blog) : [@mtskhs](https://qiita.com/mtskhs)
   * Speaker Deck(japanese presentation): [mtskhs](https://speakerdeck.com/matsu0228/)
 
 
-# Work Experience
-
-### Developed and Operated at EC Site
-
-* 6 years+
+# Skill
 
 * Backend
-  * Go, TypeScript, Python, PHP, Ruby: 7 Years+ (Total)
-  * Developed for EC Shopping Mall (Rakuten, Yahoo shopping)
-  * Renovate to MicroServices from one of legacy system
 
-* Project Manager, Tech Lead
-  * Developped Payment System (Renewal payment system of Creditcard, Added new payment, Added new discount method)
-  * Developped reccomendation sysytem with oversea vendor (communicated by English)
-  * Implovement of technical teams skills by Agile Retrospective)
+  **Go**, **TypeScript** (/Node.js), JavaScript (ES2016~), **Python** (/Django, Flask), ruby*, php*
 
-* Flontend
-  * Developed mobile application by React Native (expo) and Firebase
-  * Analized KPI of user's data(ABtesting, Google Analitics), and Imploved EC Site
-  * Developed operation functions by JavaScript
+* Frontend
+
+  **React.js**
+
+* Mobile
+
+  **ReactNative** (/Expo), Flutter*
+
+* Testing
+
+  Go, Jest
+
+* Database/cache/queue
+
+  **mysql**, **Cloud Firestore**, MongoDB*,
+  **Redis**, rabbitMQ
+
+* Infrastructure
+
+  **GCP** (GAE, GCE), **Firebase**(Cloud Functions, Firebase Authentication), **Docker**, AWS*, **Netlify**, Vercel*
+
+* SaaS
+
+GitHub Actions, CircleCI, BigQuery, Sentry, Google Analytics
+
+* Communication tools
+
+ GitHub, Slack, Trello, backlog
+
+**legend** : Core skills are listed in **bold**. The `*` mark indicates "No work experience or No recent use".
+
 
 # Personal Work
 
@@ -105,3 +124,8 @@ title: aboutme
   * GCE: Google Compute Engine
   * BigQuery
 
+# Strengths
+
+* 7+ years of experience in developing/operating in-house services for C
+* 2 years on a new business team, working across backend, frontend, and smartphone app development
+* Lead team to drive development, knowledgeable in Agile and Scrum (CSM)
