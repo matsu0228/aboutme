@@ -3,8 +3,8 @@ layout: default
 title: aboutme
 ---
 
-最終更新: 2022/2/26
-English version: https://matsu0228.github.io/aboutme/en/
+* 最終更新: 2022/2/26
+* [English version is here](https://matsu0228.github.io/aboutme/en/)
 
 # 個人データ
 
@@ -33,7 +33,7 @@ English version: https://matsu0228.github.io/aboutme/en/
 
 * Testing
 
-  Go, Jest
+  **Go**, **Jest**
 
 * Database/cache/queue
 
@@ -46,11 +46,11 @@ English version: https://matsu0228.github.io/aboutme/en/
 
 * SaaS
 
-GitHub Actions, CircleCI, BigQuery, Sentry, Google Analytics
+  GitHub Actions, CircleCI, BigQuery, Sentry, Google Analytics
 
 * Communication tools
 
- GitHub, Slack, Trello, backlog
+  GitHub, Slack, Trello, backlog
 
 **凡例** : コアなスキルは**太字** で記載、
 `*` 印は「業務経験なし or 直近の利用がないもの」です。
@@ -59,6 +59,9 @@ GitHub Actions, CircleCI, BigQuery, Sentry, Google Analytics
 
 # Public Output
 
+* 技術書 / OSS
+  * 書籍: [Firestore Testing −なぜテストを書くのか、どう書くのかがよくわかる！−](https://techbookfest.org/product/5732781973831680)
+  * OSS: Cloud Firestore運用ツール [fsrpl](https://firebaseopensource.com/projects/matsu0228/fsrpl) の開発
 * アジャイル
   * SCM(Certified ScrumMaster)
   * [シリコンバレーで３ヶ月働いて体感した自律型組織のススメ(slide)](https://speakerdeck.com/matsu0228/organizationtheory-of-engineering)
@@ -67,7 +70,6 @@ GitHub Actions, CircleCI, BigQuery, Sentry, Google Analytics
 * Go
   * Go Conference 2019 Autumn における登壇:[Goにおける API Client実装パターン(slide)](https://speakerdeck.com/matsu0228/api-client-implementation-pattern-in-go)
   * Go Conference 2021 Spring LT: [Cloud Firestore with Go (slide)](https://speakerdeck.com/matsu0228/cloud-firestore-with-go)
-  * OSS: Cloud Firestore運用ツール [fsrpl](https://firebaseopensource.com/projects/matsu0228/fsrpl) の開発
   * [Goにおけるテストノウハウ(Qiita)](https://qiita.com/matsu0228/items/c9f69b036f0ab47b617e)
 
 * ReactNative

@@ -72,58 +72,6 @@ GitHub Actions, CircleCI, BigQuery, Sentry, Google Analytics
   * [Sentiment analysis of Japanese at Python (tech blog; japanese)](https://qiita.com/matsu0228/items/0323f299d03f5b07efdc)
 
 
-# Skills
-
-### Go
-
-* OSS: Cloud Firestore's operation tool [fsrpl](https://firebaseopensource.com/projects/matsu0228/fsrpl)
-
-* Works
-  * Developed API for mobile application by GAE & Go
-  * Developed Order and supply systems for malls in EC services
-  * Test Automation by CircleCI & GitHub Actions
-
-
-### Python
-
-* Django
-  * Three months of internship at Silicon Valley Startups
-  * Develop a Japanese reputation analysis system
-
-### JavaScript
-
-* Modern JavaScript(ES2017)
-* Node.js
-* React.js / ReactNative
-
-
-## DataStore
-
-* RDB
-  * SQL Server
-  * mysql
-
-* NoSQL
-  * MongoDB
-  * firebase
-
-* Others
-  * Redis
-  * rabbitMQ
-
-## Infla
-
-### Infrastructure as Code
-
-* docker
-* ansible
-
-### Cloud
-
-* GCP: Google Cloud Platform
-  * GCE: Google Compute Engine
-  * BigQuery
-
 # Strengths
 
 * 7+ years of experience in developing/operating in-house services for C
